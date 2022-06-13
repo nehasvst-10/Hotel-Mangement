@@ -1,1 +1,2 @@
 # Hotel Mangement System
+The aim of our project is to develop a software for implementing “Hotel Management System” using  C++. The development of this particular project is to perform the formalities / operation in HOTEL MANAGEMENT SYSTEM. This project deals with the customer details and hotel maintenance in its process. The customers are instructed in an easy way to feel comfortable with the processing.
